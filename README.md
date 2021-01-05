@@ -19,7 +19,7 @@
 
 ## About
 A clean, beautiful and modern design to manage your projects or deadline, base on a design of <a href="https://dribbble.com/Hirariaz4">Hira Riaz</a> on Dribbble !\
-https://dribbble.com/shots/14038313-Project-Management-Dashboard-UX-UI-Design
+Link of the design: https://dribbble.com/shots/14038313-Project-Management-Dashboard-UX-UI-Design
 ## Live Demo
 [Click here!](https://meokisama.github.io/projectmanagement/)
 ## Find me around the web 🌎:
